@@ -18,17 +18,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": "Filling this section in soon! (promise) .",
-          "url": "https://krisztiankovacs.com/blog/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -50,7 +39,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://krisztiankovacs.com/blog/robots.txt",
